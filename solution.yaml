@@ -4,7 +4,7 @@ kind: Solution
 metadata:
   name: morning-greeting-ff1fd
   version: 1.1.0
-  description: AI agent that sends a warm, personalized hello greeting to users every morning at 8:00 AM.
+  description: AI agent that sends a warm, personalized hello greeting to users every morning at 8:00 AM and 9: 00PM
 
 assets:
   - ref: ./assets/morning-greeting-agent/asset.yaml
